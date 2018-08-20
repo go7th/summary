@@ -1,0 +1,9 @@
+RUBY语法
+PYTHON语法
+PHP语法
+JS语法
+JAVA语法
+C++语法
+C语法
+
+常见编辑器使用
