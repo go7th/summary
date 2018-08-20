@@ -1,9 +1,87 @@
-RUBY语法
-PYTHON语法
-PHP语法
-JS语法
-JAVA语法
-C++语法
-C语法
-
-常见编辑器使用
+															
+	语言	基础语法	常见框架（路由）	推荐编辑器	数据库连接方式	视图渲染方式	文件IO方式	文件上传	图片处理（验证码）	API接口调用	语言特点	socket	jsonp同步 	请求头	中文编码设置
+	RUBY		jekyll												
+	PYTHON		"web.py
+tornado
+flask
+django
+scrapy"	vscode											
+	PHP		"thinkphp3.2
+thinkphp5
+laravel
+yii"	"PHPstorm
+NetBeans"											
+	swift			x-code											
+	OC														
+	node		"express
+vue
+react
+react-native
+easyUI
+vuetify"	"sublime
+atom"											
+	JAVA		SSH,SSM	eclipse											
+	C++														
+	C														
+	go			liteIDE											
+	erlang														
+	lua														
+															
+	数据库	建库建表	增删改查	用户权限	索引处理	视图用法	分库分表	分布式处理（主从）	数据库特点						
+	mysql														
+	sqlite														
+	redis														
+	memcache														
+	MongoDB														
+	postgresql														
+	oracle														
+															
+	服务器	虚拟主机	重写机制	服务器代理，集群	文件上传限制	防盗链处理	用户黑名单，白名单	服务器特点							
+	nginx														
+	Apache														
+	iis														
+															
+	系统	基本命令	权限管理	计划任务	进程管理	环境变量	脚本编程	文件管理							
+	linux														
+	mac														
+	win														
+															
+															
+	软件	常见快捷键	常用尺寸	软件特点，使用场景	安装方法，破解版	mac/win									
+	ps														
+	ai														
+	cdr														
+	id														
+	flash														
+	fw														
+	sketch														
+	sai														
+	AE														
+	pre														
+	美图秀秀														
+	会声会影														
+	cad														
+	maya														
+	犀牛														
+	axure														
+	墨刀														
+	ppt														
+	word														
+	excel														
+	魔秀														
+	易企秀														
+															
+															
+	程序工具														
+	pm2														
+	plantom														
+	docker														
+	postcss														
+	impress														
+	Webpack														
+	Rxjs														
+															
+	算法列表	使用场景													
+	排序														
+	设计模式														
+	FP,OOP														
